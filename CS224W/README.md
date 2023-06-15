@@ -1,6 +1,6 @@
 # 斯坦福大学CS224W图机器学习公开课-同济子豪兄中文精讲
 
-> 2023-1-18更新
+> 2023-3-13更新
 
 ## 课程概述
 
@@ -24,7 +24,7 @@ PageRank、DeepWalk、Node2Vec、GNN、GCN、GraphSAGE、GAT、GIN、TransE、Tr
 
 张子豪，B站人工智能科普教育UP主“同济子豪兄”：https://space.bilibili.com/1900783
 
-微软人工智能最有价值专家（MVP）、华为云人工智能HCDE云享专家。
+微软人工智能最有价值专家（MVP）、华为云人工智能HCDE云享专家、中国图象图形学学会-科普与教育工作委员会委员。
 
 代表作包括：精读AI经典论文、编程奇妙夜、斯坦福CS231N、CS224W中文精讲、OpenMMLab代码实战。
 
@@ -76,25 +76,67 @@ Node2Vec-论文逐句精读：https://www.bilibili.com/video/BV1vU4y1i77T
 
 Node2Vec代码实战-《悲惨世界》小说人物图嵌入、Alias Sampling复现：https://www.bilibili.com/video/BV1VS4y1E7Me
 
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/3-Embedding.md
+
 ## 谷歌搜索引擎开山算法-PageRank
 
 Pagerank-算法讲解：https://www.bilibili.com/video/BV1uP411K7yN
 
 PageRank代码实战-西游记人物重要度：https://www.bilibili.com/video/BV1Wg411H7Ep
 
+扩展阅读：公众号 人工智能小技巧 回复 pagerank
+
+## 物以类聚，人以群分-半监督节点分类
+
+https://www.bilibili.com/video/BV1184y1G7pA
+
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/5-Semi.md
+
+## 三人成虎，众口铄金-图神经网络
+
+深度学习基础：https://www.bilibili.com/video/BV13g4y1n7b4
+
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/6-1-DL.md
+
+图神经网络综述和学习路径：https://www.bilibili.com/video/BV16v4y1b7x7
+
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/6-2-GNN.md
+
+## 麻雀虽小，五脏俱全-图卷积神经网络GCN
+
+GCN算法讲解：https://www.bilibili.com/video/BV1Hs4y157Ls
+
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/6-3-GCN.md
+
+## 定乎内外之分，辩乎荣辱之境-图神经网络的表达能力
+
+图神经网络的表达能力：https://www.bilibili.com/video/BV1MT411Y7da
+
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/8-GIN.md
+
+## Neo4j图数据库实战
+
+玩转Neo4j知识图谱和图数据挖掘：https://www.bilibili.com/video/BV1Mr4y1i7CX
+
+Neo4j医疗知识图谱智能问答机器人：https://www.bilibili.com/video/BV1uY41167Ha
+
 ## 致谢
 
 本课程制作期间，得到了以下老师和组织的大力支持，在此表示感谢。
 
-赵冰辰（爱丁堡大学）、杨思苇（同济大学）、翁振杰（华东师范大学）、刘焕勇（360AI研究院，https://liuhuanyong.github.io）
+赵冰辰（爱丁堡大学）、杨思苇（同济大学）、翁振杰（华东师范大学）
 
-REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy）
+李沐（亚马逊）、刘焕勇（https://liuhuanyong.github.io ）、张军斌（公众号：图科学实验室）
 
-陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
+REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy ）
 
-Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会、开源社
+耿珺（斯坦福大学）、陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
 
-X-Lab（https://space.bilibili.com/510793367）
+胡锐锋（Datawhale）、人民邮电出版社异步社区
+
+OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会、开源社
+
+X-Lab（https://space.bilibili.com/510793367 ）
 
 ## 课程资料下载
 
